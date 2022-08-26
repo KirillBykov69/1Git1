@@ -1,0 +1,23 @@
+### Python template
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+docker-compose.yaml
+log/
+resources/products.json
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+dist
+build
+
+# My configurations:
+db.ini
+deploy_key_rsa
+
